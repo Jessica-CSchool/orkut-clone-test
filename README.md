@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Orkut Clone - Automação de Testes com Self-Healing (Healenium)
 
 Este projeto contém a esteira de testes automatizados de Interface (UI) para a aplicação **Orkut Clone**, desenvolvida utilizando **Java** e **Selenium WebDriver**. O grande diferencial desta arquitetura é a integração com o **Healenium**, um mecanismo de Inteligência Artificial que intercepta falhas de seletores (*NoSuchElementException*) em tempo real e realiza a autocura (*Self-Healing*) dos elementos para evitar a quebra dos testes.
@@ -116,4 +115,3 @@ docker ps
 
 📊 Acompanhando as Curas em Tempo Real
 http://localhost:7878/healenium/report
->>>>>>> 256d9e6 (diciona testes de login, logout e redirect)
